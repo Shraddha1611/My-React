@@ -1,0 +1,29 @@
+{
+  "name": "my-react",
+  "version": "1.0.0",
+  "description": "This is My React by Shraddha Thul",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Shraddha",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shraddha1611/My-React.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shraddha1611/My-React/issues"
+  },
+  "homepage": "https://github.com/Shraddha1611/My-React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browsersList":["last 2 Chrome version"]
+}

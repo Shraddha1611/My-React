@@ -1,0 +1,8 @@
+const resList = [
+  /**
+   *
+   * copyed config data
+   */
+];
+
+export default resList;
